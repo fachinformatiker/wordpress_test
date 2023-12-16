@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>psvisual</title>
+	<atom:link href="https://fachinformatiker.github.io/wordpress_test/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fachinformatiker.github.io/wordpress_test/</link>
+	<description>Patrick Szalewicz, visual creator based in Frankfurt (Oder)</description>
+	<lastBuildDate>Mon, 17 Apr 2023 10:11:39 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://fachinformatiker.github.io/wordpress_test/wp-content/uploads/2023/01/elementor/thumbs/PSVISUAL_LOGO-1-q09y852r4cyhihgsr4sueq1d7q3qge5wmq4pqbyulw.png</url>
+	<title>psvisual</title>
+	<link>https://fachinformatiker.github.io/wordpress_test/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Maurer</title>
+		<link>https://fachinformatiker.github.io/wordpress_test/maurer/</link>
+		
+		<dc:creator><![CDATA[Patrick Szalewicz]]></dc:creator>
+		<pubDate>Mon, 16 Jan 2023 11:27:27 +0000</pubDate>
+				<category><![CDATA[Landingpage]]></category>
+		<guid isPermaLink="false">https://fachinformatiker.github.io/wordpress_test/?p=1399</guid>
+
+					<description><![CDATA[<p>Der Beitrag <a rel="nofollow" href="https://fachinformatiker.github.io/wordpress_test/maurer/">Maurer</a> erschien zuerst auf <a rel="nofollow" href="https://fachinformatiker.github.io/wordpress_test/">psvisual</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Der Beitrag <a rel="nofollow" href="https://fachinformatiker.github.io/wordpress_test/maurer/">Maurer</a> erschien zuerst auf <a rel="nofollow" href="https://fachinformatiker.github.io/wordpress_test/">psvisual</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

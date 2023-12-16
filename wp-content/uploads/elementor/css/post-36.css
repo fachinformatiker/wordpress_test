@@ -1,0 +1,29 @@
+.elementor-36 .elementor-element.elementor-element-72f592c4 > .elementor-background-overlay{opacity:0.5;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-36 .elementor-element.elementor-element-72f592c4{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;z-index:1;}.elementor-36 .elementor-element.elementor-element-38ead56a > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-36 .elementor-element.elementor-element-38ead56a > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-36 .elementor-element.elementor-element-55b69527 .elementor-heading-title{color:var( --e-global-color-f898f31 );font-family:"montserat", Sans-serif;font-size:100px;font-weight:100;text-transform:uppercase;line-height:100px;letter-spacing:1px;}.elementor-36 .elementor-element.elementor-element-7d3d5c76{--spacer-size:50px;}.elementor-36 .elementor-element.elementor-element-73d6ff74 > .elementor-background-overlay{opacity:0.5;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-36 .elementor-element.elementor-element-73d6ff74{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0% 0% 8% 0%;z-index:2;}.elementor-36 .elementor-element.elementor-element-8feb0cd{color:var( --e-global-color-8368192 );font-family:"montserat", Sans-serif;font-size:18px;font-weight:300;text-transform:none;font-style:normal;text-decoration:none;line-height:22px;}:root{--page-title-display:none;}@media(max-width:1024px){.elementor-36 .elementor-element.elementor-element-72f592c4{z-index:2;}.elementor-36 .elementor-element.elementor-element-55b69527 .elementor-heading-title{font-size:72px;line-height:1em;}.elementor-36 .elementor-element.elementor-element-7d3d5c76{--spacer-size:10px;}.elementor-36 .elementor-element.elementor-element-73d6ff74{z-index:1;}.elementor-36 .elementor-element.elementor-element-8feb0cd{font-size:14px;}}@media(max-width:767px){.elementor-36 .elementor-element.elementor-element-55b69527 .elementor-heading-title{font-size:30px;}.elementor-36 .elementor-element.elementor-element-7d3d5c76{--spacer-size:10px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'montserat';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://fachinformatiker.github.io/wordpress_test/wp-content/uploads/2022/11/Montserrat-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'montserat';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://fachinformatiker.github.io/wordpress_test/wp-content/uploads/2022/11/Montserrat-Italic-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'montserat';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://fachinformatiker.github.io/wordpress_test/wp-content/uploads/2022/11/Montserrat-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'montserat';
+	font-style: italic;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://fachinformatiker.github.io/wordpress_test/wp-content/uploads/2022/11/Montserrat-Italic-VariableFont_wght.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

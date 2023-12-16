@@ -1,0 +1,29 @@
+.elementor-34 .elementor-element.elementor-element-2604388 .elementor-heading-title{color:var( --e-global-color-f898f31 );font-family:"montserat", Sans-serif;font-size:75px;font-weight:100;text-transform:uppercase;line-height:100px;letter-spacing:1px;}.elementor-34 .elementor-element.elementor-element-6749440{--spacer-size:50px;}.elementor-34 .elementor-element.elementor-element-7bbc6c8a{padding:0% 0% 8% 0%;}.elementor-34 .elementor-element.elementor-element-2f468159{color:var( --e-global-color-8368192 );font-family:"montserat", Sans-serif;font-size:18px;font-weight:300;text-transform:none;font-style:normal;text-decoration:none;line-height:22px;}:root{--page-title-display:none;}@media(max-width:1024px){.elementor-34 .elementor-element.elementor-element-2604388 .elementor-heading-title{font-size:72px;line-height:1em;}.elementor-34 .elementor-element.elementor-element-6749440{--spacer-size:10px;}.elementor-34 .elementor-element.elementor-element-2f468159{font-size:14px;}}@media(max-width:767px){.elementor-34 .elementor-element.elementor-element-2604388 .elementor-heading-title{font-size:30px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'montserat';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://fachinformatiker.github.io/wordpress_test/wp-content/uploads/2022/11/Montserrat-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'montserat';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://fachinformatiker.github.io/wordpress_test/wp-content/uploads/2022/11/Montserrat-Italic-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'montserat';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://fachinformatiker.github.io/wordpress_test/wp-content/uploads/2022/11/Montserrat-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'montserat';
+	font-style: italic;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://fachinformatiker.github.io/wordpress_test/wp-content/uploads/2022/11/Montserrat-Italic-VariableFont_wght.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
